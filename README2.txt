@@ -1,0 +1,1 @@
+Look for results of race around the time of world's fair in NY when you got 3rd in national championship
