@@ -1,6 +1,7 @@
 Look for results of race around the time of world's fair in NY when you got 3rd in national championship.
-
-
+Look for results of first road race in Plainfield NJ when I met George S.
+Look for results of team triathlon at age 39 with John Hogan and ?.  Do you have any pictures?  This may make a story or a
+  least a running photo. 
 Talk about magnesium, potassium quercetin  and give links.  I eat a good diet and don't need multivitamins.
 
 vitamins jim Ryan vitamin ?E? I took multi-V, vit E glucosomine, vitamine C (Romi C).  About 2005. decided to change.
