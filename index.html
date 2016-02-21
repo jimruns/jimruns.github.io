@@ -258,39 +258,54 @@
 					                   </section>
 
 				<!-- Footer -->
-				<!--
+				
 					<section id="footer">
 						<div class="inner">
 							<h2 class="major">Get in touch</h2>
-							<p>Cras mattis ante fermentum, malesuada neque vitae, eleifend erat. Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.</p>
-							<form method="post" action="#">
-								<div class="field">
-									<label for="name">Name</label>
-									<input type="text" name="name" id="name" />
-								</div>
-								<div class="field">
-									<label for="email">Email</label>
-									<input type="email" name="email" id="email" />
-								</div>
-								<div class="field">
-									<label for="message">Message</label>
-									<textarea name="message" id="message" rows="4"></textarea>
-								</div>
-								<ul class="actions">
-									<li><input type="submit" value="Send Message" /></li>
-								</ul>
-							</form>
-							<ul class="contact">
-								<li class="fa-youtube"><a href="https://www.youtube.com/channel/UCVg2z9DRhuwaKGPb8oPM4vw">YouTube</a></li>
-							</ul>
-							<ul class="copyright">
-								<li>&copy; Untitled Inc. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-							</ul>
+						<form action="contact.php" method="post">
+    Your name<br>
+    <input type="text" name="cf_name"><br>
+    Your e-mail<br>
+    <input type="text" name="cf_email"><br>
+    Message<br>
+    <textarea name="cf_message"><br>
+    <input type="submit" value="Send">
+    <input type="reset" value="Clear">
+</form>
+$field_name = $_POST['cf_name'];
+$field_email = $_POST['cf_email'];
+$field_message = $_POST['cf_message'];
+$mail_to = 'james.lombardi@allegheny.edu';
+$subject = 'Message from a site visitor ' . $field_name;
+$body_message = 'From: '.$field_name."\n";
+$body_message .= 'E-mail: '.$field_email."\n";
+$body_message .= 'Message: '.$field_message;
+$headers = "From: $cf_email\r\n";
+$headers .= "Reply-To: $cf_email\r\n";
+$mail_status = mail($mail_to, $subject, $body_message, $headers);
+if ($mail_status) { ?>
+    <script language="javascript" type="text/javascript">
+        // Print a message
+        alert('Thank you for the message. I will contact you shortly.');
+        // Redirect to some page of the site. You can also specify full URL, e.g. http://template-help.com
+        window.location = 'contact_page.html';
+    </script>
+<?php
+}	
+else { ?>
+    <script language="javascript" type="text/javascript">
+        // Print a message
+        alert('Message failed. Please, send an email to gordon@template-help.com');
+        // Redirect to some page of the site. You can also specify full URL, e.g. http://template-help.com
+        window.location = 'contact_page.html';
+    </script>
+<?php
+}?>
 						</div>
 					</section>                            
 
-			</div>
-	-->
+			
+	
 		<!-- Scripts  -->
 			<script src="assets/js/skel.min.js"></script>
 			<script src="assets/js/jquery.min.js"></script>
