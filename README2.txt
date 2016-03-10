@@ -29,7 +29,7 @@ Talk about calories required for a long run.  C=2.4*Pounds*(Hours-1.3)
 
 Photo of Amt Marathon and windmill  mention Windmill view, maureen birth, diner
 
-graph of pulse 1964-65?
+graph of pulse 1964-65?  also maybe something on pulses I have been taking lately during workouts.
 
 Most memorable races
   St Christopher's 12 mile 1964,65,66,67
