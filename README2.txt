@@ -1,6 +1,6 @@
 
 after .com write to Amby
-Look for results of race around the time of world's fair in NY when you got 3rd in national championship.
+Look for results of race around the time of world's fair in NY when you got 5th in national championship.
 Look for results of first road race in Plainfield NJ when I met George S.
 Look for results of team triathlon at age 39 with John Hogan and ?.  Do you have any pictures?  This may make a story or a
   least a running photo. 
@@ -32,7 +32,7 @@ Photo of Amt Marathon and windmill  mention Windmill view, maureen birth, diner
 graph of pulse 1964-65?  also maybe something on pulses I have been taking lately during workouts.
 
 Most memorable races
-  St Christopher's 12 mile 1964,65,66,67
+  St Christopher's 12 mile 1964,65,66,67,70
 	5 times
 		1st time Joe Klienerman (Kleinerman?) friend , kurt Steiner? Dick Clapp, John Kelly (spelling) runner->
 		walker became friend met again in Toronto, John Long, Jim ? swimming pool,  Joe took me over course gave 
@@ -43,7 +43,7 @@ Most memorable races
 		In later runs 2nd places a third and on honeymoon.  Mary Jane's run.
 		Ed windrow in rain
 	
-  Metro championship 25K. Biggest race in NY.  Ny Marathon started in 1970. Gary M, Gavin Jones. other god runner. I have
+  Metro championship 25K. Biggest race in NY.  Ny Marathon started in 1970. Gary M, Gavin Jones. other good runner. I have
 	results sheet.  That year I trained hard.  Might be last chance to really get in shape-Grad school. Gary had won 
 	other races that I had been in that year  running away from everyone including me. The week before I had won the 
 	NJ AAU 6 mile championship on track in record time.  Decided to stick with Gary until I couldn't any more. 
