@@ -15,18 +15,19 @@ p {
 }
 p a {
   /* text-decoration: underline */
-  color: #008AFF;
+  color: #B2B2FF;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
+  color: #008AFF;
 }
 a {
   color: #008AFF;
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #B2B2FF;
 }
 blockquote {
   color: #808080;
@@ -118,7 +119,7 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #0085a1;
+  color: #B2B2FF;
 }
 
 .navbar-custom .navbar-brand-logo {

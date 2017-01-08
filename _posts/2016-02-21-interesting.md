@@ -20,3 +20,14 @@ tomorrow. Maybe I found a good workout for the day after a long run. It's now Mo
 I ran only 2 miles today on a slightly hilly road course. I am usually stiff 2 days after a long run
 but I wasn't stiff at all just a little tired. Average pace 8:27/mi. I am going to try yesterday's
 workout again after my next long run.
+
+[click this link](http://www.markdowntutorial.com/lesson/1/)
+
+# This is a header
+
+## This is a smaller header
+
+### This is an even smaller header
+
+###### This is an even, even, even smaller header
+
