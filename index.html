@@ -1,0 +1,84 @@
+---
+layout: page
+title: Jim Runs!
+subtitle: Welcome to Jim Runs!
+use-site-title: true
+---
+Welcome to Jim Runs! I am Jim Lombardi and the purpose of this website is to help me interact with
+other runners of all ages including those who are in their 60's, 70's and older. I started running
+regularly at the age of 16 in the Spring of 1959 and have run in at least one race every year since
+and hope to run for many years to come. I have participated in approximately 830 races ranging from
+440 yds to 50 miles and have covered approximately 87,000 miles in training and racing. In the past
+24 plus years I have run almost every day. I think my experiences will help me help others enhance
+their enjoyment of running and improve their race times. The development of this website began on
+February 1, 2016 and the plan is to continually add information. Since 1962 I have kept a diary of my
+thoughts, discoveries, workouts, and race results. This diary will be helpful for the website's
+development. Things I do in training, preparing for races, and in competition work for me but they may
+not work for you. But if there are some things you read here that seem like they may be helpful, give
+them a try. Please tell me what you think.
+
+<div class="posts-list">
+  {% for post in paginator.posts %}
+  <article class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+	  <h2 class="post-title">{{ post.title }}</h2>
+
+	  {% if post.subtitle %}
+	  <h3 class="post-subtitle">
+	    {{ post.subtitle }}
+	  </h3>
+	  {% endif %}
+    </a>
+
+    <p class="post-meta">
+      Posted on {{ post.date | date: "%B %-d, %Y" }}
+    </p>
+
+    <div class="post-entry-container">
+      {% if post.image %}
+      <div class="post-image">
+        <a href="{{ post.url | prepend: site.baseurl }}">
+          <img src="{{ post.image }}">
+        </a>
+      </div>
+      {% endif %}
+      <div class="post-entry">
+        {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
+        {% assign excerpt_word_count = post.excerpt | number_of_words %}
+        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
+          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+        {% endif %}
+      </div>
+    </div>
+
+    {% if post.tags.size > 0 %}
+    <div class="blog-tags">
+      Tags:
+      {% if site.link-tags %}
+      {% for tag in post.tags %}
+      <a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>
+      {% endfor %}
+      {% else %}
+        {{ post.tags | join: ", " }}
+      {% endif %}
+    </div>
+    {% endif %}
+
+   </article>
+  {% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+<ul class="pager main-pager">
+  {% if paginator.previous_page %}
+  <li class="previous">
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li class="next">
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jim Runs!</title>
+    <description>A virtual proof that name is awesome!</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Training</title>
+        <description>
+          
+          
+
+        </description>
+        <pubDate>Sat, 07 Jan 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2017-01-07-training/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-01-07-training/</guid>
+      </item>
+    
+      <item>
+        <title>Tempo Runs</title>
+        <description>
+          
+          I mentioned that coach Ralph White introduced me to tempo runs. Dr. Jack Daniels has determined that ideally tempo runs should last about 20 minutes and should be done at threshold pace. He discusses tempo runs and threshold training in a 2005 Running Times article which is republished by Runner’s...
+        </description>
+        <pubDate>Sat, 07 Jan 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2017-01-07-tempo-runs/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-01-07-tempo-runs/</guid>
+      </item>
+    
+      <item>
+        <title>Family, Running, and Photos</title>
+        <description>
+          
+          Mary Jane and I have two children, Jamie and Laura. As mentioned above Laura and her family live in Amsterdam. Jamie, his wife Sheryl and their two girls Lynnea and Abby live in Meadville, PA, the same town as Mary Jane and I. Jamie was a very good runner in...
+        </description>
+        <pubDate>Sat, 07 Jan 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2017-01-07-photos/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-01-07-photos/</guid>
+      </item>
+    
+      <item>
+        <title>I Love Running Just About Any Distance</title>
+        <description>
+          
+          In March 2010, I competed in the 800 meters, 1 mile, and 3000 meters at the National Indoor Masters Championship in Boston. Later that year I ran the Canandaguia 50 mile run. I tremendously enjoyed all these races. I can remember the 3000 meters like it was yesterday. In this...
+        </description>
+        <pubDate>Sat, 07 Jan 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2017-01-07-love-running/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-01-07-love-running/</guid>
+      </item>
+    
+      <item>
+        <title>Injuries</title>
+        <description>
+          
+          Dealing with Injuries During my years of running I have experienced many injuries and some of these have been reoccurring. These include injuries to my hips, groin areas, hamstrings, Achilles tendons, arches, and the balls of my feet. At times my right knee has had some discomfort and when I...
+        </description>
+        <pubDate>Sat, 07 Jan 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2017-01-07-injuries/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-01-07-injuries/</guid>
+      </item>
+    
+      <item>
+        <title>Highlights</title>
+        <description>
+          
+          
+
+        </description>
+        <pubDate>Sat, 07 Jan 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2017-01-07-highlights/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-01-07-highlights/</guid>
+      </item>
+    
+      <item>
+        <title>George Sheehan in the 1960's</title>
+        <description>
+          
+          In 1963 I met George Sheehan at one of my first road races. It was in Plainfield, NJ. We both had just joined the Central Jersey Track Club. Over the next 5 years we competed in many of the same events and traveled together for some of them. For a...
+        </description>
+        <pubDate>Sat, 07 Jan 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2017-01-07-george-sheehan/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-01-07-george-sheehan/</guid>
+      </item>
+    
+      <item>
+        <title>Healing the Ball of My Foot</title>
+        <description>
+          A natural approach to relieving pain in the ball of your foot - 
+          I think the way the ball of my right foot was healed could be very helpful to others. It does not involve cortisone shots but does involve massage and stretching. I started effective massage of my sore left Achilles after visiting a therapist. To find out more about this you...
+        </description>
+        <pubDate>Sat, 07 Jan 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2017-01-07-ball-of-foot/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-01-07-ball-of-foot/</guid>
+      </item>
+    
+      <item>
+        <title>Running in Amsterdam</title>
+        <description>
+          
+          Many times when traveling I look for a race to run. It’s fun to meet runners I would otherwise not meet and run on new courses. Our daughter Laura lives in Amsterdam, The Netherlands. She and her husband Joe O’Brien have two girls Maureen and Oona. Mary Jane and I...
+        </description>
+        <pubDate>Sat, 07 Jan 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2017-01-07-amsterdam/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-01-07-amsterdam/</guid>
+      </item>
+    
+      <item>
+        <title>Massaging Achilles Tendon</title>
+        <description>
+          A natural approach to relieving achilles tendon pain - 
+          Sample text talking about what you were doing when you injured your achilles tendon. Then tell the story about how you went to one doctor and they advised rubbing it lightly and then in Amsterdam you went to another doctor and they said to rub it hard. Below is a...
+        </description>
+        <pubDate>Sat, 07 Jan 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2017-01-07-achilles/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-01-07-achilles/</guid>
+      </item>
+    
+      <item>
+        <title>Beta Blockers and Running Performance</title>
+        <description>
+          
+          Approximately 20 years ago in my early 50’s, I was diagnosed with glaucoma. Under the care of my ophthalmologist, the effects of glaucoma have been kept in check with the use of various eye drops. A few years ago my doctor suggested that I try a drop that contained a...
+        </description>
+        <pubDate>Wed, 03 Aug 2016 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2016-08-03-beta-blockers/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-08-03-beta-blockers/</guid>
+      </item>
+    
+      <item>
+        <title>Walt Peterson</title>
+        <description>
+          
+          Between 2014 and 2016 when I was running around the Allegheny College athletic fields, quite often I saw Walt Peterson running and walking with his dog Rocky. In the beginning we would just say hi and maybe talk a little. I began to wonder why I saw him so often....
+        </description>
+        <pubDate>Mon, 01 Aug 2016 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2016-08-01-walt-peterson/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-08-01-walt-peterson/</guid>
+      </item>
+    
+      <item>
+        <title>Armstrong's Sports Close-Up</title>
+        <description>
+          Mike Fiorilla interviews Jim Lombardi and Tom Hayden on Distance Running - 
+          Talk about the interview a little bit.
+
+
+
+
+        </description>
+        <pubDate>Wed, 27 Jul 2016 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2016-07-27-armstrong/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-07-27-armstrong/</guid>
+      </item>
+    
+      <item>
+        <title>An Update to &quot;Something Interesting Happened&quot;</title>
+        <description>
+          
+          In one of my old posts, Something Interesting Happened I talked about something interesting that happened to me during a workout. It’s Sunday March 6, 2016. Two weeks ago I did a 20 mile training run and the next day I did the walk/run workout described above with good results....
+        </description>
+        <pubDate>Sun, 06 Mar 2016 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2016-03-06-update/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-03-06-update/</guid>
+      </item>
+    
+      <item>
+        <title>Something Interesting Happened</title>
+        <description>
+          
+          It’s Sunday February 21, 2016 and something interesting happened with my running today. Yesterday I ran a 20 miler in preparation for a 50K in a few weeks. It was a good run and today when I went out to run I felt somewhat stiff and tired. I decided to...
+        </description>
+        <pubDate>Sun, 21 Feb 2016 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2016-02-21-interesting/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-02-21-interesting/</guid>
+      </item>
+    
+  </channel>
+</rss>
