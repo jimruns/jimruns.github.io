@@ -71,14 +71,13 @@
                         <a style="font-size:20px"><font color="yellow"><FONT style="BACKGROUND-COLOR: blue">Click on Charity Miles: <h2><a href="#Charity"><font color="yellow"><FONT style="BACKGROUND-COLOR: blue"> Charity Miles</FONT></font></a></h2></FONT></font></a>
  -->                       
      
-<!--                        
-                            <h2>Do you have a sore achilles tendon? This <a href="https://youtu.be/O3qewIQyP2A"target="_blank">
-                            <font color="blue"><FONT
+                        <h2>Do you have a sore achilles tendon? This <a href="https://youtu.be/O3qewIQyP2A"target="_blank"><font color="blue"><FONT
                             style="BACKGROUND-COLOR: yellow">video</FONT></font></a> may help.</h2>
--->
 
 
-                       
+
+                        <h2>My recent training and racing log as I prepare for the Canandaigua 50 Mile Run on October 13, 2018 is <a href="JimLombardiTrainingandRacingLog.pdf"target="_blank"> <font color="blue"><FONT style="BACKGROUND-COLOR: yellow"><bold>here</bold></FONT></font>. The log starts on July 21, 2018. </h2>   
+
                      
  <!--                       <h2>Previous logs are given below. </h2>           -->
                       
@@ -107,16 +106,7 @@
                             
 							
 
-							<p>I am Jim Lombardi and the purpose of this website is to help me interact with other runners of all ages including those who are in their 60's, 70's and older.  I enjoy training for and running races over a wide range of distances. Last year I ran two marathons and this year I ran the Green Jewel 50K and plan to run the Canandaigua 50 mile run on my 76th birthday, October 13th.
-              One way that runners can effectively interact is to inform each other concerning their training and racing.  If you read the following three links I think you will get a good picture of how I train and race.
-
-              <h2>My recent training and racing log as I prepare for the Canandaigua 50 Mile Run on October 13, 2018 is <a href="JimLombardiTrainingandRacingLog.pdf"target="_blank"> <font color="blue"><FONT style="BACKGROUND-COLOR: yellow"><bold>here</bold></FONT></font>. The log starts on July 21, 2018. Other training and racing logs can be found below.</h2>
-
-              <h2>The backbone of a long distance training schedule is the number and quality of the long runs completed in training. From February 2017 through September 2018 I completed 30 training runs and races of 10 miles or more.  The average distance for these is 15.2 miles. Click <a href="LongRuns2017_2018.pdf"target="_blank"> <font color="blue"><FONT style="BACKGROUND-COLOR: yellow"><bold>here</bold></FONT></font> to view a list of these runs including details on pace and in some cases information on nourishment.</h2>
-
-              <h2>I started running regularly at the age of 16 in the Spring of 1959 and have run in at least one race every year since and hope to run for many years to come. I think a key to being able to run for a long time is not to run an excessive number of miles and at the same time to train consistently.  I also know that running intervals is very important and I have included interval training throughout my running career.  For me I feel that interval training can make up for not running many miles in training.  In 2018 I continue to run intervals with many of these workouts being with a running group of about 10 runners. To view these workouts click <a href="ThurIntervalTraining2018.pdf"target="_blank"> <font color="blue"><FONT style="BACKGROUND-COLOR: yellow"><bold>here</bold></FONT></font>. </h2>  
-
-              I have participated in approximately 840 races ranging from 440 yds to 54 miles and have covered approximately 90,000 miles in training and racing.  In the past 24 plus years I have run almost every day. I think my experiences will help me help others enhance their enjoyment of running and improve their race times. The development of this website began on Feb. 1, 2016 and  the plan is to continually add information. Since 1962 I have kept a diary of my thoughts, discoveries, workouts, and race results. This diary will be helpful for the website's development. Things I do in training, preparing for races, and in competition work for me but they may not work for you.  But if there are some things you read here that seem like they may be helpful, give them a try.  Please tell me what you think.
+							<p>I am Jim Lombardi and the purpose of this website is to help me interact with other runners of all ages including those who are in their 60's, 70's and older. I started running regularly at the age of 16 in the Spring of 1959 and have run in at least one race every year since and hope to run for many years to come.  I have participated in approximately 840 races ranging from 440 yds to 54 miles and have covered approximately 90,000 miles in training and racing.  In the past 24 plus years I have run almost every day. I think my experiences will help me help others enhance their enjoyment of running and improve their race times. The development of this website began on Feb. 1, 2016 and  the plan is to continually add information. Since 1962 I have kept a diary of my thoughts, discoveries, workouts, and race results. This diary will be helpful for the website's development. Things I do in training, preparing for races, and in competition work for me but they may not work for you.  But if there are some things you read here that seem like they may be helpful, give them a try.  Please tell me what you think.
 
 							 </p>
                      
